@@ -92,3 +92,4 @@ def faculty_page(department):
 
 if __name__ == '__main__':
     app.run(debug=True)
+#commit by surya
